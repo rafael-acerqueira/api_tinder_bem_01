@@ -14,6 +14,7 @@ gem 'pg', '~> 0.18'
 gem 'puma', '~> 3.0'
 # build json responses
 gem "active_model_serializers", "~> 0.10.0.rc4"
+gem 'devise_token_auth'
 
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
